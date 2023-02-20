@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567236969 source:c:\users\user\documents\c\huffman\compression.c
+	<stdio.h>
+	<stdlib.h>
+
