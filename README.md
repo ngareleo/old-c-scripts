@@ -1,2 +1,2 @@
 ### old-c-scripts
-my old C scripts when i was learning C
+my old C scripts from when i was learning C
